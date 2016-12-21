@@ -6,7 +6,7 @@ package cn.mejhwu.utils;
  * Date: 16-12-20
  * Time: 下午9:21.
  */
-public class Range {
+public final class Range {
     public static int[] range(int n) {
         int[] result = new int[n];
         for (int i = 0; i < n; i++) {

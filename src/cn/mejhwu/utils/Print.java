@@ -6,7 +6,7 @@ import java.io.PrintStream;
  * Date: 16-12-20
  * Time: 下午1:18.
  */
-public class Print {
+public final class Print {
     public static void println(Object obj) {
         System.out.println(obj);
     }
