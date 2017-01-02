@@ -2,16 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a73f720-ddb3-4e08-a48f-153518801da8" name="Default" comment="完成第6章">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter8/CovariantReturn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter8/FieldAccess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter8/PrivateOverride.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter8/ReferenceCounting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter8/Sandwich.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter8/practise/_10_AutoCall.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter7/ConstantFolding$Value.class" afterPath="$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter7/ConstantFolding$Value.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Callbacks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/ClassInInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Controller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/DotNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/DotThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Event.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Factories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Games.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/GreenHouseController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/GreenhouseControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/LocalInnerClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiInterfeces.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiNestingAccess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/TestBed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/practise/_19_Parcel19.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter10/practise/_22_SequenceWithReverse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/AsListInference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/PriorityQueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/QueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/SetOperations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/Statistics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_12_ListIteratorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_28_DoublePriorityQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_29_ObjectSimple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/AdaptedRandomDoubles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/Adventure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/Apply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/C4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/NestingInterfaces.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/RandomWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/WaveFormfilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/mejhwu/chapter9/practise/_3_AbstractPrint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/utils/Print.class" afterPath="$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/utils/Print.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/utils/Range.class" afterPath="$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/utils/Range.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/mejhwu/utils/Print.java" afterPath="$PROJECT_DIR$/src/cn/mejhwu/utils/Print.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/mejhwu/utils/Range.java" afterPath="$PROJECT_DIR$/src/cn/mejhwu/utils/Range.java" />
     </list>
     <ignored path="think_in_java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,90 +71,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sandwich.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter8/Sandwich.java">
+      <file leaf-file-name="_28_DoublePriorityQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_28_DoublePriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="268">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-                <element signature="e#891#892#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReferenceCounting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter8/ReferenceCounting.java">
+      <file leaf-file-name="_29_ObjectSimple.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_29_ObjectSimple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-              <folding>
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#1128#1129#0" expanded="true" />
-                <element signature="e#1168#1169#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CovariantReturn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter8/CovariantReturn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Range.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/utils/Range.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="107">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Print.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/utils/Print.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding>
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -149,39 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/ShowProperties.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/HelloDate.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_1_CreateClass.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_2_HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_9_StaticField.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_8_StaticField.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_9_AutoPackage.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_1_StaticImport.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/Precedence.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/Assignment.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_2_Assignment.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/PassObject.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_3_PassObject.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/AutoInc.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_5_6_Dog.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_7_Coins.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/Literals.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter3/BitManipulation.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter4/LabeledFor.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter4/practise/_7_BreakLoop.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter4/practise/_10_VampireNumber.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/PassingThis.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/TerminationCondition.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/practise/_10_FinalizeClass.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/practise/_10_Tank.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/StaticInitialization.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/ArrayClassObj.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/practise/_19_.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/charpter5/practise/_19_Varargs.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter7/Orc.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter7/practise/_15_ProtectedTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter7/_15_Protected.java" />
-        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter7/FinalData.java" />
         <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter7/BlankFinal.java" />
         <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter7/ConstantFolding.java" />
         <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter8/_10_AutoCall.java" />
@@ -193,6 +124,46 @@
         <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter8/CovariantReturn.java" />
         <option value="$PROJECT_DIR$/src/cn/mejhwu/utils/Range.java" />
         <option value="$PROJECT_DIR$/src/cn/mejhwu/utils/Print.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/practise/_3_AbstractPrint.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/practise/_11_StringProcessor.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/WaveFormFilter.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/Apply.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/WaveFormfilter.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/Adventure.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/RandomWords.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/C4.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/AdaptedRandomDoubles.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter9/NestingInterfaces.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel1.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel2.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/DotThis.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/DotNew.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel3.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Factories.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Games.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/practise/_19_Parcel19.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/ClassInInterface.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/TestBed.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiNestingAccess.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiInterfeces.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiImplementation.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/practise/_22_SequenceWithReverse.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Callbacks.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Event.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/GreenhouseControls.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/GreenHouseController.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/Controller.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter10/LocalInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/AsListInference.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_12_ListIteratorTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/SetOperations.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/UniqueWords.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/PriorityQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_28_DoublePriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_29_ObjectSimple.java" />
       </list>
     </option>
   </component>
@@ -269,10 +240,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking_in_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking_in_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mejhwu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking_in_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking_in_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mejhwu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
       <pane id="Scratches" />
       <pane id="Scope">
@@ -341,13 +357,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../webmagic" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Console" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
@@ -355,15 +374,15 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="thinking_in_java" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/mejhwu/idea_workspace/thinking_in_java/src/cn/mejhwu/chapter8/Sandwich.java" />
   </component>
-  <component name="RunManager" selected="Application.CovariantReturn">
-    <configuration default="false" name="PrivateOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application._29_ObjectSimple">
+    <configuration default="false" name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.mejhwu.chapter8.*" />
+          <option name="PATTERN" value="cn.mejhwu.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter8.PrivateOverride" />
+      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter11.Statistics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -376,14 +395,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FieldAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.mejhwu.chapter8.*" />
+          <option name="PATTERN" value="cn.mejhwu.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter8.FieldAccess" />
+      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter11.QueueDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -396,14 +415,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Sandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PriorityQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.mejhwu.chapter8.*" />
+          <option name="PATTERN" value="cn.mejhwu.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter8.Sandwich" />
+      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter11.PriorityQueueDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -416,14 +435,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ReferenceCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_28_DoublePriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.mejhwu.chapter8.*" />
+          <option name="PATTERN" value="cn.mejhwu.chapter11.practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter8.ReferenceCounting" />
+      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter11.practise._28_DoublePriorityQueue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -436,14 +455,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CovariantReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_29_ObjectSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.mejhwu.chapter8.*" />
+          <option name="PATTERN" value="cn.mejhwu.chapter11.practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter8.CovariantReturn" />
+      <option name="MAIN_CLASS_NAME" value="cn.mejhwu.chapter11.practise._29_ObjectSimple" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -794,19 +813,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrivateOverride" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FieldAccess" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Sandwich" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReferenceCounting" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CovariantReturn" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Statistics" />
+      <item index="1" class="java.lang.String" itemvalue="Application.QueueDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PriorityQueueDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application._28_DoublePriorityQueue" />
+      <item index="4" class="java.lang.String" itemvalue="Application._29_ObjectSimple" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CovariantReturn" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReferenceCounting" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Sandwich" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FieldAccess" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrivateOverride" />
+        <item index="0" class="java.lang.String" itemvalue="Application._29_ObjectSimple" />
+        <item index="1" class="java.lang.String" itemvalue="Application._28_DoublePriorityQueue" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PriorityQueueDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.QueueDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Statistics" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
@@ -827,16 +846,21 @@
       <workItem from="1482205803748" duration="888000" />
       <workItem from="1482206724024" duration="17318000" />
       <workItem from="1482296374931" duration="3638000" />
-      <workItem from="1482303926565" duration="6796000" />
+      <workItem from="1482303926565" duration="13625000" />
+      <workItem from="1482652452877" duration="5405000" />
+      <workItem from="1482902495915" duration="1811000" />
+      <workItem from="1483302929687" duration="1094000" />
+      <workItem from="1483275302562" duration="9948000" />
+      <workItem from="1483331386929" duration="4358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29907000" />
+    <option name="totallyTimeSpent" value="59352000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1505" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="1505" y="24" width="1301" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -845,18 +869,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32819724" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2449923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -909,7 +933,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -918,358 +942,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/utils/Range.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/HelloDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/ShowProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter2/ShowProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_1_StaticImport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/ShowProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_1_CreateClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/HelloDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_2_HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_8_StaticField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter2/practise/_9_AutoPackage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/Precedence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/Assignment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_2_Assignment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/PassObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#225#226#0" expanded="false" />
-            <element signature="e#250#251#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_3_PassObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#262#263#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/AutoInc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_5_6_Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/practise/_7_Coins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/Literals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter3/BitManipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter4/LabeledFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter4/practise/_7_BreakLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter4/practise/_10_VampireNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter5/PassingThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" column="24" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter5/TerminationCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter5/practise/_10_Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter5/StaticInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter5/ArrayClassObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/cn.mejhwu.utils.Print">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>cn.mejhwu.utils.Print</OriginalElement>
-          <nodes>
-            <node x="" y="">cn.mejhwu.utils.Print</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="36.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter5/practise/_19_Varargs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter7/_15_Protected.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter7/practise/_15_ProtectedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter7/Orc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#249#250#0" expanded="false" />
-            <element signature="e#281#282#0" expanded="false" />
-            <element signature="e#315#316#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-            <element signature="e#378#379#0" expanded="false" />
-            <element signature="e#439#440#0" expanded="false" />
-            <element signature="e#535#536#0" expanded="false" />
-            <element signature="e#562#563#0" expanded="false" />
-            <element signature="e#831#832#0" expanded="false" />
-            <element signature="e#898#899#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter7/BlankFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <element signature="e#211#212#0" expanded="false" />
-            <element signature="e#245#246#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter7/BlankFinal.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#770#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter7/FinalData.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-          <folding>
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter7/ConstantFolding.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter7/FinalData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter7/ConstantFolding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter8/practise/_10_AutoCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter8/PrivateOverride.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1277,14 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="31" column="89" selection-start-line="31" selection-start-column="89" selection-end-line="31" selection-end-column="89" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1292,9 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#491#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1302,9 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-228">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#372#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1312,9 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#260#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1322,24 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1347,33 +988,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter8/CovariantReturn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="736">
           <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1381,18 +1002,311 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/utils/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/practise/_3_AbstractPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/practise/_11_StringProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/WaveFormfilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/Adventure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/C4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/AdaptedRandomDoubles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/RandomWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter9/NestingInterfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/DotThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/DotNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Parcel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Factories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Games.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/practise/_19_Parcel19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/thinking_in_java/cn/mejhwu/chapter10/practise/_19_Parcel19.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/ClassInInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/TestBed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiInterfeces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/MultiNestingAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/practise/_22_SequenceWithReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="87" column="15" selection-start-line="87" selection-start-column="15" selection-end-line="88" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Callbacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/GreenhouseControls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/GreenHouseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter10/LocalInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/AsListInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_12_ListIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/UniqueWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/utils/Print.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/SetOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="107">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#313#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/PriorityQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/QueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#489#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_28_DoublePriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mejhwu/chapter11/practise/_29_ObjectSimple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
